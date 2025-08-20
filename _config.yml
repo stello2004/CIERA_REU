@@ -9,11 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "SAM / not PhD"
+title                    : "Samuel Tello, Physics Undergraduate"
+# title                    : "SAM / not PhD"
 title_separator          : "-"
-name                     : &name "sammm telllooooo"
+name                     : &name "Samuel Tello"
 description              : &description "personal description? don't think so"
-url                      : https://stello2004.github.io/teehee # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://stello2004.github.io/CIERA_REU # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stello2004.github.io/CIERA_REU"
 
