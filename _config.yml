@@ -23,7 +23,7 @@ repository               : "stello2004.github.io/CIERA_REU"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "myphoto.png"
+  avatar           : "myphoto.jpeg"
   name             : "Samuel Tello"
   pronouns         : # example: "she/her"  
   bio              : "Physics Undergraduate Student"
