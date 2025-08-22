@@ -21,6 +21,6 @@ The analysis also showed features in the χ² dependence on θ₁₂ that will r
 
 I presented this as a poster at the Northwestern CIERA REU Symposium in August 2025.  
 
-![2025 DUNE Solar Parameter Sensitivity Poster]({{ base_path }}/images/dune_solar_poster.png)
+![2025 DUNE Solar Parameter Sensitivity Poster]({{ base_path }}/images/stello_REU_poster_pic.png)
 
-Download: [PDF]({{ base_path }}/files/dune_solar_poster.pdf)
+Download: [PDF]({{ base_path }}/files/stello_REU_poster_final.pdf)
