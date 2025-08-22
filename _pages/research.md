@@ -24,3 +24,7 @@ I presented this as a poster at the Northwestern CIERA REU Symposium in August 2
 ![2025 DUNE Solar Parameter Sensitivity Poster]({{ base_path }}/images/stello_REU_poster_pic.png)
 
 Download: [PDF]({{ base_path }}/files/stello_REU_poster_final.pdf)
+
+## Research Summary
+
+Check out a detailed summary [Here]({{ base_path }}/files/Tello_Samuel_REU_Final.pdf)
